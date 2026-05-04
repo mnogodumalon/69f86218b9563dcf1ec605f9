@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "bro",
+      "app_id": "69f862103464472096829825",
+      "path": "/rest/apps/69f862103464472096829825/records",
+      "allowed_fields": [
+        "vorname",
+        "nachname",
+        "nachricht",
+        "datum"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Bro — Form"
+    }
+  ]
+}
